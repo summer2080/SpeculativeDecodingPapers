@@ -199,6 +199,9 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **SpecDec++: Boosting Speculative Decoding via Adaptive Candidate Lengths**  
   *Kaixuan Huang, Xudong Guo, Mengdi Wang*. [[pdf](https://arxiv.org/pdf/2405.19715)], 2024.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Adaptive_Candidate_Lengths-lightgray) ![](https://img.shields.io/badge/SpecDec++-blue)
 
+- **[ACL 2024] Self-Speculative Decoding**
+  *Jun Zhang, Jue Wang, Huan Li, Lidan Shou, Ke Chen, Gang Chen, Sharad Mehrotra* [[pdf](https://arxiv.org/pdf/2309.08168)],[[code](https://github.com/dilab-zju/self-speculative-decoding)], 2024,05
+
 ### Multimodal Speculative Decoding
 
 - **On Speculative Decoding for Multimodal Large Language Models**  
